@@ -4,7 +4,7 @@
 - !<mobzy:model>
   id: 8
 - !<mobzy:attributes>
-  maxHealth: 10
+  maxHealth: 20
   movementSpeed: 0.4
   attackDamage: 8
   attackKnockback: 1
